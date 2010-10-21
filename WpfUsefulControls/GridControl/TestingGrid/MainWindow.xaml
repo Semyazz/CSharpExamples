@@ -1,0 +1,7 @@
+﻿<Window x:Class="TestingGrid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:DynamicGridsColumns="clr-namespace:DynamicGridsColumns;assembly=DynamicGridsColumns" Title="MainWindow" Height="350" Width="525">
+    <Grid HorizontalAlignment="Stretch">
+        <DynamicGridsColumns:MainControl x:Name="Kontrolka" Loaded="Kontrolka_Loaded"></DynamicGridsColumns:MainControl>
+    </Grid>
+</Window>

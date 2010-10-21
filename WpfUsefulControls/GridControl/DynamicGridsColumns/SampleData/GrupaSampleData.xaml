@@ -1,0 +1,73 @@
+﻿<DynamicGridsColumns:Grupa xmlns:DynamicGridsColumns="clr-namespace:DynamicGridsColumns" Nazwa="Bibendum dignissim parturient congue donec">
+	<DynamicGridsColumns:Grupa.Columns>
+		<DynamicGridsColumns:Column HeaderText="Nam class" DisplayMember="Tresc"/>
+		<DynamicGridsColumns:Column HeaderText="Aliquam curabitur" DisplayMember="Tresc"/>
+		<DynamicGridsColumns:Column HeaderText="Sed aenean" DisplayMember="Tresc"/>
+		<DynamicGridsColumns:Column HeaderText="Sed aenean" DisplayMember="Tresc"/>
+	</DynamicGridsColumns:Grupa.Columns>
+	<DynamicGridsColumns:Grupa.Pytania>
+		<DynamicGridsColumns:Pytanie Tresc="Pytanie Tempus tristique adipiscing sem parturient">
+			<DynamicGridsColumns:Pytanie.Odpowiedzi>
+				<DynamicGridsColumns:Odpowiedz Inne="Urna cras gravida platea iaculis" Tresc="Primis rutrum magna lacinia"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Sapien duis massa per semper" Tresc="Vestibulum sociis vehicula taciti"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Volutpat maecenas" Tresc="Tincidunt praesent laoreet tellus"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Metus morbi neque nunc" Tresc="Accumsan natoque netus amet"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Ante nulla sed bibendum tempor" Tresc="Porta purus vestibulum"/>
+			</DynamicGridsColumns:Pytanie.Odpowiedzi>
+		</DynamicGridsColumns:Pytanie>
+		<DynamicGridsColumns:Pytanie Tresc="Pytanie Erat auctor">
+			<DynamicGridsColumns:Pytanie.Odpowiedzi>
+				<DynamicGridsColumns:Odpowiedz Inne="Sit posuere ultricies dictumst potenti" Tresc="Vel tortor nam sed"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Vestibulum pretium eleifend" Tresc="Dis arcu diam eget"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Elit facilisi est hac leo" Tresc="Mus venenatis turpis"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Enim vestibulum varius nec faucibus" Tresc="Risus non vulputate aenean mauris"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Velit habitant nullam" Tresc="Aptent per rhoncus curabitur sed"/>
+			</DynamicGridsColumns:Pytanie.Odpowiedzi>
+		</DynamicGridsColumns:Pytanie>
+		<DynamicGridsColumns:Pytanie Tresc="Pytanie Vel vestibulum nam facilisis">
+			<DynamicGridsColumns:Pytanie.Odpowiedzi>
+				<DynamicGridsColumns:Odpowiedz Inne="Congue sem cursus" Tresc="Eros sit phasellus nibh nisi"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Consequat adipiscing parturient vestibulum convallis" Tresc="Dictum sodales inceptos viverra"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Vitae class" Tresc="Interdum vestibulum dignissim nisl aliquam"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Elementum integer lobortis nascetur quisque" Tresc="Vivamus curae adipiscing"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Parturient lectus" Tresc="Vestibulum nunc aliquam donec"/>
+			</DynamicGridsColumns:Pytanie.Odpowiedzi>
+		</DynamicGridsColumns:Pytanie>
+		<DynamicGridsColumns:Pytanie Tresc="Pytanie Montes euismod habitasse hendrerit hac">
+			<DynamicGridsColumns:Pytanie.Odpowiedzi>
+				<DynamicGridsColumns:Odpowiedz Inne="Adipiscing aliquet" Tresc="Blandit libero parturient vestibulum vestibulum"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Ligula adipiscing" Tresc="Litora fermentum luctus commodo"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Conubia parturient fringilla" Tresc="Etiam cubilia sed magnis"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Dapibus fusce pharetra vestibulum" Tresc="Dis mattis mauris mollis"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Odio lorem morbi nulla" Tresc="Placerat est vestibulum egestas adipiscing"/>
+			</DynamicGridsColumns:Pytanie.Odpowiedzi>
+		</DynamicGridsColumns:Pytanie>
+		<DynamicGridsColumns:Pytanie Tresc="Pytanie Torquent vestibulum tristique">
+			<DynamicGridsColumns:Pytanie.Odpowiedzi>
+				<DynamicGridsColumns:Odpowiedz Inne="Feugiat himenaeos leo" Tresc="Nostra imperdiet proin"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Orci pulvinar mus" Tresc="Gravida parturient iaculis"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Augue lacinia" Tresc="Malesuada sagittis dolor ornare"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Laoreet natoque fames senectus pede" Tresc="Posuere penatibus potenti"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Sociosqu felis porttitor tincidunt vestibulum" Tresc="Ipsum suscipit platea"/>
+			</DynamicGridsColumns:Pytanie.Odpowiedzi>
+		</DynamicGridsColumns:Pytanie>
+		<DynamicGridsColumns:Pytanie Tresc="Pytanie Rutrum sapien convallis">
+			<DynamicGridsColumns:Pytanie.Odpowiedzi>
+				<DynamicGridsColumns:Odpowiedz Inne="Ultrices pretium nec quam primis" Tresc="Justo vehicula lacus"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Non volutpat" Tresc="Lorem ultricies magna per"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Sed quis urna venenatis" Tresc="Adipiscing rhoncus sodales"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Viverra massa maecenas parturient" Tresc="Vulputate cras praesent accumsan"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Curabitur phasellus vestibulum vestibulum" Tresc="Consequat bibendum adipiscing"/>
+			</DynamicGridsColumns:Pytanie.Odpowiedzi>
+		</DynamicGridsColumns:Pytanie>
+		<DynamicGridsColumns:Pytanie Tresc="Pytanie Hendrerit vestibulum">
+			<DynamicGridsColumns:Pytanie.Odpowiedzi>
+				<DynamicGridsColumns:Odpowiedz Inne="Semper sociis" Tresc="Metus dignissim elementum morbi"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Aliquam integer facilisis fermentum" Tresc="Sem taciti dictumst eleifend"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Neque netus" Tresc="Sit duis tellus nulla facilisi"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Vel nam" Tresc="Quisque nunc parturient"/>
+				<DynamicGridsColumns:Odpowiedz Inne="Tempor fringilla tempus porta" Tresc="Amet habitasse"/>
+			</DynamicGridsColumns:Pytanie.Odpowiedzi>
+		</DynamicGridsColumns:Pytanie>
+	</DynamicGridsColumns:Grupa.Pytania>
+</DynamicGridsColumns:Grupa>

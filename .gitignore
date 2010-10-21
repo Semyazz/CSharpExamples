@@ -1,0 +1,11 @@
+
+[Dd]ebug*/
+[Rr]elease*/
+[Bb]in
+obj/
+_ReSharper*/
+*.user
+*.exe
+*.cache
+*.vspscc
+*.suo
