@@ -49,11 +49,8 @@
     <Reference Include="PresentationFramework" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Column.cs" />
-    <Compile Include="DataGridExtension.cs" />
-    <Compile Include="DataMatrix.cs" />
-    <Compile Include="GridViewColumns.cs" />
-    <Compile Include="ListViewExtension.cs" />
+    <Compile Include="DefaultControlFactory.cs" />
+    <Compile Include="IControlFactory.cs" />
     <Compile Include="MainControl.xaml.cs">
       <DependentUpon>MainControl.xaml</DependentUpon>
     </Compile>
@@ -80,11 +77,6 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <AppDesigner Include="Properties\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Page Include="SampleData\GrupaSampleData.xaml">
-      <SubType>Designer</SubType>
-    </Page>
   </ItemGroup>
   <ItemGroup>
     <Page Include="MainControl.xaml">

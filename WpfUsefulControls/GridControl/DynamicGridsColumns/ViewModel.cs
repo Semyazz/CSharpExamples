@@ -35,7 +35,7 @@ namespace DynamicGridsColumns
         public List<Pytanie> Pytania { get; set; }
         public List<List<Odpowiedz>> Odpowiedzi { get; set; }
 
-        public List<Column> Columns { get; set; }
+        //public List<Column> Columns { get; set; }
 
         #region Implementation of IEnumerable
 

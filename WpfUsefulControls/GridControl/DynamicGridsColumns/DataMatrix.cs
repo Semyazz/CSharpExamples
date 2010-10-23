@@ -1,6 +1,0 @@
-﻿namespace DynamicGridsColumns
-{
-    class DataMatrix
-    {
-    }
-}

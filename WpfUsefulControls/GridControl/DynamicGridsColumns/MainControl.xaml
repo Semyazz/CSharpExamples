@@ -20,7 +20,7 @@
 		</ListView.View>
     </ListView>-->
 
-    <Grid DataContext="{Binding}" DataContextChanged="Grid_DataContextChanged" x:Name="FatherGrid" ShowGridLines="True" Grid.IsSharedSizeScope="True">
+    <Grid DataContext="{Binding}" DataContextChanged="GridDataContextChanged" x:Name="FatherGrid" ShowGridLines="True" Grid.IsSharedSizeScope="True">
 
     </Grid>
     <!--<ItemsControl ItemsSource="{Binding Pytania}" DataContextChanged="ItemsControl_DataContextChanged">
