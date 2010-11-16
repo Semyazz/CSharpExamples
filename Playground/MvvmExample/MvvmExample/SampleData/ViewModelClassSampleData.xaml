@@ -1,0 +1,14 @@
+<MvvmExample:ViewModelClass xmlns:MvvmExample="clr-namespace:MvvmExample" xmlns:System="clr-namespace:System;assembly=mscorlib" FirstProperty="Aliquam maecenas" SecondProperty="Curabitur class nam">
+	<MvvmExample:ViewModelClass.ThirdProperty>
+		<System:String>Sed dis</System:String>
+		<System:String>Est vestibulum cras adipiscing integer</System:String>
+		<System:String>Parturient quisque praesent</System:String>
+		<System:String>Phasellus consequat duis aenean</System:String>
+		<System:String>Nunc hac</System:String>
+		<System:String>Vivamus vestibulum aliquam</System:String>
+		<System:String>Mauris accumsan nullam aliquet</System:String>
+		<System:String>Leo convallis dignissim aptent</System:String>
+		<System:String>Amet ante curae</System:String>
+		<System:String>Donec auctor vestibulum adipiscing mus</System:String>
+	</MvvmExample:ViewModelClass.ThirdProperty>
+</MvvmExample:ViewModelClass>

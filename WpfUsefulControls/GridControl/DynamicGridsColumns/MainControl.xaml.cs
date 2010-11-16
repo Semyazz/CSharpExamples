@@ -66,32 +66,6 @@ namespace DynamicGridsColumns
 
             int columnPointer;
 
-            //foreach (var pytanie in pytania)
-            //{
-            //    grid.RowDefinitions.Add(new RowDefinition()
-            //                                {
-            //                                    Height = GridLength.Auto
-            //                                });
-            //    columnPointer = 0;
-
-            //    TextBlock tb = new TextBlock() { Text = pytanie.Tresc };
-            //    tb.SetValue(Grid.ColumnProperty, columnPointer);
-            //    tb.SetValue(Grid.RowProperty, grid.RowDefinitions.Count-1);
-            //    columnPointer++;
-
-            //    grid.Children.Add(tb);
-
-            //    foreach (var odp in pytanie.Odpowiedzi)
-            //    {
-            //        TextBlock tblc = new TextBlock() { Text = odp.Tresc };
-            //        tblc.SetValue(Grid.ColumnProperty, columnPointer);
-            //        columnPointer++;
-            //        tblc.SetValue(Grid.RowProperty, grid.RowDefinitions.Count - 1);
-            //        grid.Children.Add(tblc);
-            //    }
-
-            //}
-
             foreach (var pytanie in pytania)
             {
                 grid.RowDefinitions.Add(new RowDefinition()
